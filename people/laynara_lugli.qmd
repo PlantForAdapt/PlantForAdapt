@@ -1,0 +1,9 @@
+---
+title: "Laynara Lugli"
+subtitle: "Co-lead WP2"
+image: "/files/profiles/laynara_lugli.jpg"
+about:
+  id: person-profile
+  template: jolla
+---
+I am a forest ecosystem ecologist specialising in plant-soil interactions and root functional traits in tropical forests. My research focuses on how fine roots influence and respond to biogeochemical cycles, particularly under climate change and nutrient limitation. I investigate root dynamics, morphology, anatomy, exudation, and mycorrhizal associations, as well as soil microbial activity, decomposition, and nutrient cycling at ecosystem scales. With extensive experience in field and lab techniques, including soil cores, minirhizotrons, and plant-soil chemical analyses, I aim to understand how tropical forests adapt to environmental change. My work integrates observational studies and large-scale experiments in the central Amazon to inform dynamic vegetation models and improve predictions of forest resilience.

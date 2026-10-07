@@ -1,0 +1,26 @@
+---
+title: "Publications"
+description-meta: "Information, pdfs, and social metrics of papers"
+listing: 
+- id: papers
+  sort: "date desc"
+  type: default
+  page-size: 100
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed: true
+  contents: 
+      - papers
+draft-mode: unlinked
+page-navigation: false
+title-block-banner: false
+css: custom.css
+---
+
+No publications yet.
+
+:::{#papers}
+:::
+
+{{< include /files/includes/_socialshare.qmd >}}

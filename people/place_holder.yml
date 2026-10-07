@@ -1,0 +1,7 @@
+    - path: "#"
+      image: "/files/profiles/avatar.png"
+      title: "Place Holder"
+      author: "Unit"
+      subtitle: "Role"
+      categories: [Unit] 
+      

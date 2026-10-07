@@ -1,0 +1,7 @@
+---
+title: "Opportunities"
+subtitle: "Job opportunities in the HidrAmazônia project"
+title-block-banner: false
+---
+
+*Work in progress*, the content will soon be here!

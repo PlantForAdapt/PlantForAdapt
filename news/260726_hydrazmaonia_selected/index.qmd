@@ -1,0 +1,20 @@
+---
+title: "HidrAmazônia selected by the ANR"
+description: "Our project HidrAmazônia has been selected under the ANR's 2026 Generic Call for Proposals (AAPG 2026)"
+author: "News"
+date: "2026-07-26"
+categories: [news]
+image: https://anr.fr/typo3conf/ext/anr_skin/Resources/Public/assets/img/anr-logo-2021-complet.png
+#css: /custom.css
+#draft: true
+---
+
+## Summary
+
+We are delighted to announce that **HidrAmazônia** has been selected for funding under the [Appel à projets générique 2026 (AAPG 2026)](https://anr.fr/fr/detail/call/aapg-appel-a-projets-generique-2026/) of the French National Research Agency (ANR).
+
+The AAPG is the ANR's flagship funding scheme, open to all scientific communities and public or private research actors in France. We look forward to starting this new project and will share updates as it progresses.
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

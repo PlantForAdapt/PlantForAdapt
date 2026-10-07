@@ -1,0 +1,62 @@
+---
+title: "HidrAmazônia"
+description-meta: "Hydrological and ecophysiological controls on Amazon forests responses to drought and flooding"
+image: "files/images/hidramzonia_scheme.png"
+page-navigation: false
+toc: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 120%
+  links:
+    - icon: envelope
+      text: E-mail
+      href: mailto:sylvain.schmitt@cirad.fr
+    - text: "{{< fa brands github >}} GitHub"
+      href: https://github.com
+      target: _blank
+
+listing:
+  - id: recent-news
+    contents: 
+      - news
+      - papers
+    exclude:
+      title: ""
+    type: grid
+    max-items: 3
+    page-size: 3
+    fields: [image, date, title, subtitle]
+    max-description-length: 75
+    sort: 
+      - "date desc"
+      - "title asc"
+---
+
+:::{#hero-heading}
+
+
+**HidrAmazônia** — Hydrological and ecophysiological controls on Amazon forests' responses to drought and flooding.
+
+HidrAmazônia is a French-Brazilian research project studying how groundwater and plant functional traits shape the resilience of Amazonian forests to increasing droughts and floods, using two long-term "super-sites": [**Ducke**](https://ppbio.inpa.gov.br/en/Sites/RFAD) (Manaus, Brazil) and [**Paracou**](https://paracou.cirad.fr/) (Kourou, French Guiana).
+
+HidrAmazônia combines long-term forest and hydrological monitoring, ecophysiological trait measurements, and individual-based forest modelling (**TROLL**) to project how Amazon forest structure, composition, and functioning will respond under future climate and land-use scenarios.
+
+## Consortium
+
+- [Forests and Societies](https://ur-forets-societes.cirad.fr/en) 🇫🇷
+- [National Institute of Amazonian Research](https://www.gov.br/inpa/pt-br) 🇧🇷
+- [Ecology of the Forest of French Guiana](https://umr-ecofog.cirad.fr/en/) 🇬🇫
+- [AMAP Lab](https://amaplab.fr/en/index.php) 🇫🇷
+- [Center for Research on Biodiversity and Environment](https://crbe.cnrs.fr/en/) 🇫🇷
+- [Federal University of Amazonas](https://ufam.edu.br/) 🇧🇷
+ 
+:::
+
+## Recent News
+Check out the latest &nbsp;[Papers](publications.qmd)&nbsp;, &nbsp;[News](news.qmd).
+
+:::{#recent-news}
+:::

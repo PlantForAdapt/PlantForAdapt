@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>HidrAmazônia</title>
+<link>https://hidramazonia.github.io/news.html</link>
+<atom:link href="https://hidramazonia.github.io/news.xml" rel="self" type="application/rss+xml"/>
+<description>Hydrological and ecophysiological controls on Amazon forests responses to drought and flooding</description>
+<image>
+<url>https://hidramazonia.github.io/images/hidramzonia_schme.png</url>
+<title>HidrAmazônia</title>
+<link>https://hidramazonia.github.io/news.html</link>
+</image>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Sat, 25 Jul 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>HidrAmazônia selected by the ANR</title>
+  <dc:creator>News </dc:creator>
+  <link>https://hidramazonia.github.io/news/260726_hydrazmaonia_selected/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>We are delighted to announce that <strong>HidrAmazônia</strong> has been selected for funding under the <a href="https://anr.fr/fr/detail/call/aapg-appel-a-projets-generique-2026/">Appel à projets générique 2026 (AAPG 2026)</a> of the French National Research Agency (ANR).</p>
+<p>The AAPG is the ANR’s flagship funding scheme, open to all scientific communities and public or private research actors in France. We look forward to starting this new project and will share updates as it progresses.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://hidramazonia.github.io/news/260726_hydrazmaonia_selected/</guid>
+  <pubDate>Sat, 25 Jul 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://anr.fr/typo3conf/ext/anr_skin/Resources/Public/assets/img/anr-logo-2021-complet.png" medium="image" type="image/png"/>
+</item>
+</channel>
+</rss>
