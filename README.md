@@ -1,1 +1,3 @@
-Quarto Academic Website for the HidrAmazônia project based on the following [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template).
+# PlantForAdapt
+
+Website of the PlantForAdapt project, built with quarto using [this](https://github.com/drganghe/quarto-academic-website-template) academic website template.
