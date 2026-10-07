@@ -1,3 +1,3 @@
 # PlantForAdapt
 
-Website of the PlantForAdapt project, built with quarto using [this](https://github.com/drganghe/quarto-academic-website-template) academic website template.
+Website of the PlantForAdapt project, built with quarto using [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template).

@@ -2,13 +2,13 @@ project:
   type: website
   output-dir: docs
     
-description-meta: "HidrAmazônia – Hydrological and ecophysiological controls on Amazon forests responses to drought and flooding"
-author-meta: "Sylvain Schmitt"
+description-meta: "PlantForAdapt – Adapting planted forests with native species for resilient Amazonian territories in the face of global changes"
+author-meta: "Géraldine Derroire"
 
 website:
-  title: "HidrAmazônia"
-  image: "images/hidramzonia_schme.png"
-  description: "Hydrological and ecophysiological controls on Amazon forests responses to drought and flooding"
+  title: "PlantForAdapt"
+  # image: "images/hidramzonia_schme.png"
+  description: "Adapting planted forests with native species for resilient Amazonian territories in the face of global changes"
  
   navbar:
     background: dark
@@ -16,29 +16,25 @@ website:
     left:
       - text: Project
         href: project.qmd
-      - text: Team
+      - text: People
         href: people.qmd
+      - text: Outputs
+        href: outputs.qmd
       - text: News
         href: news.qmd
-      - text: Publications
-        href: publications.qmd            
-      - text: Opportunities
-        href: opportunities.qmd
-      - text: Teaching
-        href: teaching.qmd
       - text: Contacts
         href: contact.qmd
 
     right: 
       - icon: github
-        href: https://github.com/HidrAmazonia/HidrAmazonia.github.io
+        href: https://github.com/PlantForAdapt/PlantForAdapt
         target: _blank
   
   page-navigation: true
   
   page-footer: 
-    left: "[Sylvain Schmitt](http://www.github.com/sylvainschmitt) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Sylvain Schmitt](https://sylvainschmitt.netlify.app/)"
+    left: "[Géraldine Derroire](http://www.github.com/GeraldineDerroire) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by Géraldine Derroire and Sylvain Schmitt"
     right:  
       - icon: github
         href: https://github.com
@@ -53,11 +49,11 @@ website:
   
   reader-mode: false
 
-  repo-url: https://github.com/HidrAmazonia/HidrAmazonia.github.io
+  repo-url: https://github.com/PlantForAdapt/PlantForAdapt
   
   open-graph: true
   
-  site-url: "https://hidramazonia.github.io/"
+  site-url: "https://PlantForAdapt.github.io/"
   
 bibliography: references.bib
 
@@ -74,6 +70,6 @@ format:
     link-external-icon: false
     link-external-newwindow: true
     email-obfuscation: javascript
-    link-external-filter: '^(?:http:|https:)\/\/hidramazonia\.github\.io\/custom'
+    link-external-filter: '^(?:http:|https:)\/\/PlantForAdapt\.github\.io'
     include-in-header: "files/includes/_academic.qmd"
 
