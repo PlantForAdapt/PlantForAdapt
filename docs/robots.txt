@@ -1,1 +1,1 @@
-Sitemap: https://hidramazonia.github.io/sitemap.xml
+Sitemap: https://PlantForAdapt.github.io/sitemap.xml

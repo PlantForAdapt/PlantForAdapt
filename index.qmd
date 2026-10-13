@@ -1,7 +1,7 @@
 ---
-title: "HidrAmazônia"
-description-meta: "Hydrological and ecophysiological controls on Amazon forests responses to drought and flooding"
-image: "files/images/hidramzonia_scheme.png"
+title: "PlantForAdapt"
+description-meta: "Adapting planted forests with native species for resilient Amazonian territories in the face of global changes"
+# image: "files/images/hidramzonia_scheme.png"
 page-navigation: false
 toc: false
 page-layout: full
@@ -13,16 +13,16 @@ about:
   links:
     - icon: envelope
       text: E-mail
-      href: mailto:sylvain.schmitt@cirad.fr
+      href: mailto:geraldine.derroire@cirad.fr
     - text: "{{< fa brands github >}} GitHub"
-      href: https://github.com
+      href: https://github.com/PlantForAdapt
       target: _blank
 
 listing:
   - id: recent-news
     contents: 
       - news
-      - papers
+      - outputs ## add some ????
     exclude:
       title: ""
     type: grid
@@ -37,14 +37,14 @@ listing:
 
 :::{#hero-heading}
 
-
+<!--
 **HidrAmazônia** — Hydrological and ecophysiological controls on Amazon forests' responses to drought and flooding.
 
 HidrAmazônia is a French-Brazilian research project studying how groundwater and plant functional traits shape the resilience of Amazonian forests to increasing droughts and floods, using two long-term "super-sites": [**Ducke**](https://ppbio.inpa.gov.br/en/Sites/RFAD) (Manaus, Brazil) and [**Paracou**](https://paracou.cirad.fr/) (Kourou, French Guiana).
 
 HidrAmazônia combines long-term forest and hydrological monitoring, ecophysiological trait measurements, and individual-based forest modelling (**TROLL**) to project how Amazon forest structure, composition, and functioning will respond under future climate and land-use scenarios.
 
-## Consortium
+## Project consortium
 
 - [Forests and Societies](https://ur-forets-societes.cirad.fr/en) 🇫🇷
 - [National Institute of Amazonian Research](https://www.gov.br/inpa/pt-br) 🇧🇷
@@ -52,11 +52,13 @@ HidrAmazônia combines long-term forest and hydrological monitoring, ecophysiolo
 - [AMAP Lab](https://amaplab.fr/en/index.php) 🇫🇷
 - [Center for Research on Biodiversity and Environment](https://crbe.cnrs.fr/en/) 🇫🇷
 - [Federal University of Amazonas](https://ufam.edu.br/) 🇧🇷
+
+-->
  
 :::
 
 ## Recent News
-Check out the latest &nbsp;[Papers](publications.qmd)&nbsp;, &nbsp;[News](news.qmd).
+Check out the project latest &nbsp;[outputs](output.qmd)&nbsp;, &nbsp;[News](news.qmd).
 
 :::{#recent-news}
 :::

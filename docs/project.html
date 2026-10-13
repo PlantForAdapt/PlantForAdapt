@@ -2,25 +2,22 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.18">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Sylvain Schmitt">
-<meta name="description" content="HidrAmazônia – Hydrological and ecophysiological controls on Amazon forests responses to drought and flooding">
+<meta name="author" content="Géraldine Derroire">
+<meta name="description" content="PlantForAdapt – Adapting planted forests with native species for resilient Amazonian territories in the face of global changes">
 
-<title>HidrAmazônia</title>
+<title>PlantForAdapt</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
+code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: 1.5em;}
-div.column{flex: auto;}
-@media screen {
-div.columns{gap: min(4vw, 1.5em);}
-div.column{overflow-x: auto;}
-}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -44,10 +41,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-2595fe688a0dbcee07005dbf3807c391.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-320d299ad7ee7e5bd5e552bad53e8bb2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -97,12 +94,9 @@ https://badge.dimensions.ai/
 
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="HidrAmazônia">
-<meta property="og:description" content="Hydrological and ecophysiological controls on Amazon forests’ responses to drought and flooding">
-<meta property="og:image" content="https://hidramazonia.github.io/files/images/hidramazonia_framework.png">
-<meta property="og:site_name" content="HidrAmazônia">
-<meta property="og:image:height" content="540">
-<meta property="og:image:width" content="960">
+<meta property="og:title" content="PlantForAdapt">
+<meta property="og:description" content="Adapting planted forests with native species for resilient Amazonian territories in the face of global changes">
+<meta property="og:site_name" content="PlantForAdapt">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -113,7 +107,7 @@ https://badge.dimensions.ai/
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">HidrAmazônia</span>
+    <span class="navbar-title">PlantForAdapt</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -126,25 +120,32 @@ https://badge.dimensions.ai/
     <a class="nav-link active" href="./project.html" aria-current="page"> 
 <span class="menu-text">Project</span></a>
   </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-people" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">People</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-people">    
+        <li>
+    <a class="dropdown-item" href="./people.html#team">
+ <span class="dropdown-text">Team</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./people.html#students">
+ <span class="dropdown-text">Students</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./people.html#committee">
+ <span class="dropdown-text">Steering committee</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
-    <a class="nav-link" href="./people.html"> 
-<span class="menu-text">Team</span></a>
+    <a class="nav-link" href="./outputs.html"> 
+<span class="menu-text">Outputs</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./news.html"> 
 <span class="menu-text">News</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
-<span class="menu-text">Publications</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./opportunities.html"> 
-<span class="menu-text">Opportunities</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
-<span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./contact.html"> 
@@ -153,7 +154,7 @@ https://badge.dimensions.ai/
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/HidrAmazonia/HidrAmazonia.github.io" target="_blank"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/PlantForAdapt/PlantForAdapt" target="_blank"> <i class="bi bi-github" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -168,27 +169,16 @@ https://badge.dimensions.ai/
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#context" id="toc-context" class="nav-link active" data-scroll-target="#context">Context</a></li>
-  <li><a href="#objectives" id="toc-objectives" class="nav-link" data-scroll-target="#objectives">Objectives</a></li>
-  <li><a href="#central-hypothesis" id="toc-central-hypothesis" class="nav-link" data-scroll-target="#central-hypothesis">Central Hypothesis</a></li>
-  <li><a href="#work-packages" id="toc-work-packages" class="nav-link" data-scroll-target="#work-packages">Work Packages</a></li>
-  <li><a href="#expected-outcomes" id="toc-expected-outcomes" class="nav-link" data-scroll-target="#expected-outcomes">Expected Outcomes</a></li>
-  <li><a href="#partnership" id="toc-partnership" class="nav-link" data-scroll-target="#partnership">Partnership</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">HidrAmazônia</h1>
-<p class="subtitle lead">Hydrological and ecophysiological controls on Amazon forests’ responses to drought and flooding</p>
+<h1 class="title">PlantForAdapt</h1>
+<p class="subtitle lead">Adapting planted forests with native species for resilient Amazonian territories in the face of global changes</p>
 </div>
 
 
@@ -205,72 +195,61 @@ https://badge.dimensions.ai/
 </header>
 
 
-<div id="fig-framework" class="quarto-float quarto-figure quarto-figure-center anchored">
-<figure class="quarto-float quarto-float-fig figure">
-<div aria-describedby="fig-framework-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="files/images/hidramazonia_framework.png" class="img-fluid figure-img">
-</div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-framework-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;1: Study sites and research framework of HidrAmazônia.
-</figcaption>
-</figure>
-</div>
-<section id="context" class="level2">
-<h2 class="anchored" data-anchor-id="context">Context</h2>
-<p>The Amazon Basin is a key regulator of global carbon, nutrient, and water cycles. While the forest historically functioned as a major carbon sink, this capacity is weakening under deforestation, land-use change, and climate stress. Since the late twentieth century, climate change has intensified the Amazon hydrological cycle — producing wetter rainy seasons, drier dry seasons, and more frequent floods and droughts. A major but underexplored driver of forest responses is <strong>groundwater</strong>: roughly one-third to one-half of Amazon forests overlie shallow water tables that can sustain dry-season evapotranspiration and buffer moderate droughts, while potentially increasing vulnerability to severe or prolonged ones.</p>
-</section>
-<section id="objectives" class="level2">
-<h2 class="anchored" data-anchor-id="objectives">Objectives</h2>
-<p>HidrAmazônia aims to determine how Amazonian forests respond to increasing droughts and floods under a changing climate, by explicitly integrating groundwater dynamics and plant functional traits into spatially explicit forest models. The project leverages two long-term “super-sites” — the <a href="https://ppbio.inpa.gov.br/en/Sites/RFAD"><strong>Ducke Reserve</strong></a> (near Manaus, Brazil) and the <a href="https://paracou.cirad.fr/"><strong>Paracou research station</strong></a> (near Kourou, French Guiana) — to:</p>
-<ol type="1">
-<li>Quantify the role of shallow water tables in buffering or amplifying forest vulnerability to hydrological extremes.</li>
-<li>Identify above- and belowground functional traits (especially root and hydraulic traits) that control tree tolerance to drought and flooding.</li>
-<li>Assess how survival and recruitment of young trees under climate extremes shape long-term forest composition and diversity.</li>
-<li>Project forest structure, composition, and functioning under alternative climate and land-use scenarios, by improving water table representation in the <a href="https://gmd.copernicus.org/articles/18/5143/2025/"><strong>TROLL</strong></a> individual-based forest model.</li>
-</ol>
-</section>
-<section id="central-hypothesis" class="level2">
-<h2 class="anchored" data-anchor-id="central-hypothesis">Central Hypothesis</h2>
-<p>Forests with shallow water tables buffer the effects of moderate droughts but become increasingly vulnerable under extreme droughts and prolonged or intense flooding, depending on species’ functional characteristics. This is tested through three subsidiary hypotheses on drought sensitivity, waterlogging tolerance trade-offs, and the role of young-tree demographic performance in long-term compositional change.</p>
-</section>
-<section id="work-packages" class="level2">
-<h2 class="anchored" data-anchor-id="work-packages">Work Packages</h2>
-<p>The project is structured around one coordination work package and three research work packages:</p>
-<ul>
-<li><strong>WP0 — Coordination, outreach &amp; open science</strong> <em>(S. Schmitt &amp; F. Costa)</em></li>
-<li><strong>WP1 — Monitoring forest &amp; water dynamics</strong> <em>(I. Aleixo &amp; A. Mirabel)</em></li>
-<li><strong>WP2 — Characterising ecophysiological processes</strong> <em>(L. Lugli, C. Salmon &amp; S. Coste)</em></li>
-<li><strong>WP3 — Modelling forest trajectories</strong> <em>(I. Maréchaux &amp; I. Sampaio)</em></li>
-</ul>
-<blockquote class="blockquote">
-<p>Have a look to the team members at &nbsp;<a href="./people.html">Team</a>&nbsp;.</p>
-</blockquote>
-</section>
-<section id="expected-outcomes" class="level2">
-<h2 class="anchored" data-anchor-id="expected-outcomes">Expected Outcomes</h2>
-<ul>
-<li>Quantified limits of groundwater’s buffering capacity under extreme climate scenarios.</li>
-<li>Functional traits that best predict tolerance to drought–flood interactions.</li>
-<li>Projections of forest composition, diversity, and ecosystem functioning under climate and land-use change.</li>
-<li>Unprecedented understory tree dynamics data for French Guiana, comparable with existing Manaus data.</li>
-<li>Open-access functional trait databases, including a novel flood-tolerance trait database.</li>
-<li>An enhanced, open-source version of the <a href="https://gmd.copernicus.org/articles/18/5143/2025/"><strong>TROLL</strong></a> model incorporating groundwater and flooding processes.</li>
-</ul>
-</section>
-<section id="partnership" class="level2">
-<h2 class="anchored" data-anchor-id="partnership">Partnership</h2>
-<p>A French–Brazilian consortium co-led by <strong>Sylvain Schmitt</strong> (CIRAD) and <strong>Flávia Costa</strong> (INPA), bringing together:</p>
-<ul>
-<li><strong>Forests &amp; Societies</strong>, CIRAD, France 🇫🇷</li>
-<li><strong>INPA</strong> — National Institute of Amazonian Research, Brazil 🇧🇷</li>
-<li><strong>EcoFoG</strong> — Ecology of the Forest of French Guiana, CIRAD, APT, UG, INRAE, French Guiana 🇬🇫</li>
-<li><strong>AMAP</strong> — Botany and modelling of plant architecture and vegetation, INRAE, IRD, UM 🇫🇷</li>
-<li><strong>CRBE</strong> — Center for Research on Biodiversity and Environment, CNRS, France 🇫🇷</li>
-<li><strong>UFAM</strong> — Federal University of Amazonas, Brazil 🇧🇷</li>
-</ul>
-<blockquote class="blockquote">
-<p>Have a look to the team members at &nbsp;<a href="./people.html">Team</a>&nbsp;.</p>
-</blockquote>
+<!--
+
+![Study sites and research framework of HidrAmazônia.](files/images/hidramazonia_framework.png){#fig-framework}
+
+## Context
+
+The Amazon Basin is a key regulator of global carbon, nutrient, and water cycles. While the forest historically functioned as a major carbon sink, this capacity is weakening under deforestation, land-use change, and climate stress. Since the late twentieth century, climate change has intensified the Amazon hydrological cycle — producing wetter rainy seasons, drier dry seasons, and more frequent floods and droughts. A major but underexplored driver of forest responses is **groundwater**: roughly one-third to one-half of Amazon forests overlie shallow water tables that can sustain dry-season evapotranspiration and buffer moderate droughts, while potentially increasing vulnerability to severe or prolonged ones.
+
+## Objectives
+
+HidrAmazônia aims to determine how Amazonian forests respond to increasing droughts and floods under a changing climate, by explicitly integrating groundwater dynamics and plant functional traits into spatially explicit forest models. The project leverages two long-term "super-sites" — the [**Ducke Reserve**](https://ppbio.inpa.gov.br/en/Sites/RFAD) (near Manaus, Brazil) and the [**Paracou research station**](https://paracou.cirad.fr/) (near Kourou, French Guiana) — to:
+
+1.  Quantify the role of shallow water tables in buffering or amplifying forest vulnerability to hydrological extremes.
+2.  Identify above- and belowground functional traits (especially root and hydraulic traits) that control tree tolerance to drought and flooding.
+3.  Assess how survival and recruitment of young trees under climate extremes shape long-term forest composition and diversity.
+4.  Project forest structure, composition, and functioning under alternative climate and land-use scenarios, by improving water table representation in the [**TROLL**](https://gmd.copernicus.org/articles/18/5143/2025/) individual-based forest model.
+
+## Central Hypothesis
+
+Forests with shallow water tables buffer the effects of moderate droughts but become increasingly vulnerable under extreme droughts and prolonged or intense flooding, depending on species' functional characteristics. This is tested through three subsidiary hypotheses on drought sensitivity, waterlogging tolerance trade-offs, and the role of young-tree demographic performance in long-term compositional change.
+
+## Work Packages
+
+The project is structured around one coordination work package and three research work packages:
+
+- **WP0 — Coordination, outreach & open science** *(S. Schmitt & F. Costa)*
+- **WP1 — Monitoring forest & water dynamics** *(I. Aleixo & A. Mirabel)*
+- **WP2 — Characterising ecophysiological processes** *(L. Lugli, C. Salmon & S. Coste)*
+- **WP3 — Modelling forest trajectories** *(I. Maréchaux & I. Sampaio)*
+
+> Have a look to the team members at  [Team](people.qmd) .
+
+## Expected Outcomes
+
+- Quantified limits of groundwater's buffering capacity under extreme climate scenarios.
+- Functional traits that best predict tolerance to drought–flood interactions.
+- Projections of forest composition, diversity, and ecosystem functioning under climate and land-use change.
+- Unprecedented understory tree dynamics data for French Guiana, comparable with existing Manaus data.
+- Open-access functional trait databases, including a novel flood-tolerance trait database.
+- An enhanced, open-source version of the [**TROLL**](https://gmd.copernicus.org/articles/18/5143/2025/) model incorporating groundwater and flooding processes.
+
+## Partnership
+
+A French–Brazilian consortium co-led by **Sylvain Schmitt** (CIRAD) and **Flávia Costa** (INPA), bringing together:
+
+- **Forests & Societies**, CIRAD, France 🇫🇷
+- **INPA** — National Institute of Amazonian Research, Brazil 🇧🇷
+- **EcoFoG** — Ecology of the Forest of French Guiana, CIRAD, APT, UG, INRAE, French Guiana 🇬🇫
+- **AMAP** — Botany and modelling of plant architecture and vegetation, INRAE, IRD, UM 🇫🇷
+- **CRBE** — Center for Research on Biodiversity and Environment, CNRS, France 🇫🇷
+- **UFAM** — Federal University of Amazonas, Brazil 🇧🇷
+
+> Have a look to the team members at  [Team](people.qmd) .
+
+
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
 Using includes will make edits easier, will only need to add or remove button here if needed.
@@ -280,9 +259,9 @@ https://quarto.org/docs/authoring/includes.html
 <p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
+<p>–&gt;</p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -358,7 +337,7 @@ https://quarto.org/docs/authoring/includes.html
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("^(?:http:|https:)\/\/hidramazonia\.github\.io\/custom");
+        var filterRegex = new RegExp("^(?:http:|https:)\/\/PlantForAdapt\.github\.io");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -694,11 +673,11 @@ https://quarto.org/docs/authoring/includes.html
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<a href="http://www.github.com/sylvainschmitt">Sylvain Schmitt</a> ©
+<a href="http://www.github.com/GeraldineDerroire">Géraldine Derroire</a> ©
 <script>document.write(new Date().getFullYear())</script>
 </div>   
     <div class="nav-footer-center">
-<p>Build on <a href="https://github.com/drganghe/quarto-academic-website-template">Quarto Academic Website Template</a> adapted by <a href="https://sylvainschmitt.netlify.app/">Sylvain Schmitt</a></p>
+<p>Build on <a href="https://github.com/drganghe/quarto-academic-website-template">Quarto Academic Website Template</a> adapted by Géraldine Derroire and Sylvain Schmitt</p>
 </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">

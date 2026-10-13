@@ -1,7 +1,6 @@
 ---
-title: Page Unplugged
+title: Unable to find this page
 ---
 
-The page you requested cannot be found (perhaps it was unplugged).
+The page you requested cannot be found.
 
-You may want to try searching to find the page's new plug.

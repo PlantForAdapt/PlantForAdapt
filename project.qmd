@@ -1,8 +1,10 @@
 ---
-title: "HidrAmazônia"
-subtitle: "Hydrological and ecophysiological controls on Amazon forests' responses to drought and flooding"
+title: "PlantForAdapt"
+subtitle: "Adapting planted forests with native species for resilient Amazonian territories in the face of global changes"
 title-block-banner: false
 ---
+
+<!--
 
 ![Study sites and research framework of HidrAmazônia.](files/images/hidramazonia_framework.png){#fig-framework}
 
@@ -57,3 +59,5 @@ A French–Brazilian consortium co-led by **Sylvain Schmitt** (CIRAD) and **Flá
 > Have a look to the team members at  [Team](people.qmd) .
 
 {{< include /files/includes/_socialshare.qmd >}}
+
+--> 

@@ -1,37 +1,17 @@
 ---
 title: "Contacts"
-description-meta: "Reach out to me with questions and comments"
+description-meta: "Please contact the project PI if you have any question or comment."
 title-block-banner: false
 ---
 
-::: {.grid}
-::: {.g-col-6}
+
 <center>
 
-**Sylvain Schmitt**
+**Géraldine Derroire**
 
 Reasearch Unit [Forests and Societies](https://ur-forets-societes.cirad.fr/en)
 
-Cirad Baillarguet
-
-Address: 34980 Montferrier-sur-Lez
-
-E-mail: sylvain.schmitt@cirad.fr
+E-mail: geraldine.derroire@cirad.fr
 
 </center>
-:::
 
-::: {.g-col-6}
-<center>
-
-**Flavia Costa**
-
-Coordenação de Biodiversidade
-
-[National Institute of Amazonian Research](https://www.gov.br/inpa/pt-br)
-
-Address: Manaus, Amazonas, Brazil
-
-</center>
-:::
-:::

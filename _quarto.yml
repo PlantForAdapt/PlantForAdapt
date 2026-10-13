@@ -17,7 +17,13 @@ website:
       - text: Project
         href: project.qmd
       - text: People
-        href: people.qmd
+        menu:
+          - text: "Team"
+            href: people.qmd#team
+          - text: "Students"
+            href: people.qmd#students
+          - text: "Steering committee"
+            href: people.qmd#committee
       - text: Outputs
         href: outputs.qmd
       - text: News

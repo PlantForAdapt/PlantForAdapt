@@ -1,24 +1,22 @@
 [
   {
-    "listing": "/news.html",
-    "items": [
-      "/news/260726_hydrazmaonia_selected/index.html"
-    ]
+    "listing": "/people.html",
+    "items": []
   },
   {
-    "listing": "/publications.html",
-    "items": []
+    "listing": "/news.html",
+    "items": [
+      "/news/261013_place_older_for_news/index.html"
+    ]
   },
   {
     "listing": "/index.html",
     "items": [
-      "/news/260726_hydrazmaonia_selected/index.html"
+      "/news/261013_place_older_for_news/index.html"
     ]
   },
   {
-    "listing": "/people.html",
-    "items": [
-      "/people/laynara_lugli.html"
-    ]
+    "listing": "/z_archive/publications.html",
+    "items": []
   }
 ]

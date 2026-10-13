@@ -18,25 +18,12 @@ listing:  #an example of listing external links
 #  sort-ui: true
 #  filter-ui: true
   contents: 
-    - /people/sylvain_schmitt.yml
-    - /people/flavia_costa.yml
-    - /people/ariane_mirabel.yml
-    - /people/izabela_aleixo.yml
-    - /people/laynara_lugli.yml
-    - /people/sabrina_coste.yml
-    - /people/camille_salmon.yml
-    - /people/isabelle_marechaux.yml
-    - /people/israel_sampaio.yml
-    - /people/jerome_chave.yml
-    - /people/ingo_wahnfried.yml
-    - /people/giacomo_sellan.yml
-    - /people/marciel_ferreira.yml
-    - /people/guilherme_modolo.yml
-    - /people/keila_mendes.yml
-    - /people/clement_stahl.yml
-    - /people/santiago_trueba.yml
     - /people/geraldine_derroire.yml
-    - /people/melaine_aubry-kientz.yml
+    # - /people/sylvain_schmitt.yml
+    # - /people/sabrina_coste.yml
+    # - /people/giacomo_sellan.yml
+    # - /people/clement_stahl.yml
+    
     
 - id: lab-students
   sort: "name asc"
@@ -65,17 +52,20 @@ format:
     link-external-newwindow: true
 ---
 
-![Part of the HidrAmazônia team in Ducke during a workshop on TROLL.](files/images/poeple.png){#fig-poeple}
 
-## Team
+## Project team {#team}
 
 :::{#lab-member}
 :::
 
 
-## Students
+## Students {#students}
 
 :::{#lab-students}
 :::
+
+## Steering committee {#committee}
+
+
 
 
