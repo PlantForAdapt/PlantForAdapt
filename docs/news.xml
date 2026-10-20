@@ -10,24 +10,27 @@
 <atom:link href="https://PlantForAdapt.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Adapting planted forests with native species for resilient Amazonian territories in the face of global changes</description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Tue, 13 Oct 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 15 Apr 2026 03:00:00 GMT</lastBuildDate>
 <item>
-  <title>TO DO</title>
-  <link>https://PlantForAdapt.github.io/news/261013_place_older_for_news/</link>
+  <title>PlantForAdapt funded by Velux Stiftung</title>
+  <link>https://PlantForAdapt.github.io/news/260415_project_funded/</link>
   <description><![CDATA[ 
 
 
 
 
-<!--
+<div class="columns">
+<div class="column" style="width:60%;">
+<p>We are delighted to announce that <strong>PlantForAdapt</strong> has been selected for funding by the <a href="https://veluxstiftung.ch/">Velux Stiftung</a> under its 2026 Forestry call.</p>
+</div><div class="column" style="width:5%;">
 
-## Summary
-
-We are delighted to announce that **HidrAmazônia** has been selected for funding under the [Appel à projets générique 2026 (AAPG 2026)](https://anr.fr/fr/detail/call/aapg-appel-a-projets-generique-2026/) of the French National Research Agency (ANR).
-
-The AAPG is the ANR's flagship funding scheme, open to all scientific communities and public or private research actors in France. We look forward to starting this new project and will share updates as it progresses.
-
--->
+</div><div class="column" style="width:35%;">
+<p><img src="https://PlantForAdapt.github.io/news/260415_project_funded/logo_velux.jpg" class="img-fluid"></p>
+</div>
+</div>
+<p>The Velux Stiftung is a Swiss philanthropic foundation that supports research and projects in areas such as forestry, with a focus on long-term, high-impact initiatives.</p>
+<p>This funding will allow us to launch our international collaboration between Brazil and France on native-species planted forests, and to develop science-based guidelines for resilient Amazonian landscapes in the face of global change.</p>
+<p>Stay tuned for more updates as the project gets underway!</p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -43,8 +46,9 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>news</category>
-  <guid>https://PlantForAdapt.github.io/news/261013_place_older_for_news/</guid>
-  <pubDate>Tue, 13 Oct 2026 03:00:00 GMT</pubDate>
+  <guid>https://PlantForAdapt.github.io/news/260415_project_funded/</guid>
+  <pubDate>Wed, 15 Apr 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://PlantForAdapt.github.io/news/260415_project_funded/logo_velux.png" medium="image" type="image/png" height="56" width="144"/>
 </item>
 </channel>
 </rss>

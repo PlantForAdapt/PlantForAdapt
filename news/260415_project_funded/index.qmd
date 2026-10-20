@@ -1,0 +1,39 @@
+---
+title: "PlantForAdapt funded by Velux Stiftung"
+# description: "Our project PlantForAdapt has been selected for funding by Velux Stiftung"
+# author: "News"
+date: "2026-04-15"
+categories: [news]
+image: "logo_velux.png"
+#css: /custom.css
+#draft: true
+---
+
+::::: {.columns}
+
+:::: {.column width="60%"}
+
+We are delighted to announce that **PlantForAdapt** has been selected for funding by the [Velux Stiftung](https://veluxstiftung.ch/) under its 2026 Forestry call.
+
+::::
+
+:::: {.column width="5%"}
+::::
+
+:::: {.column width="35%"}
+![](logo_velux.jpg)
+::::
+
+:::::
+
+The Velux Stiftung is a Swiss philanthropic foundation that supports research and projects in areas such as forestry, with a focus on long-term, high-impact initiatives.
+
+This funding will allow us to launch our international collaboration between Brazil and France on native-species planted forests, and to develop science-based guidelines for resilient Amazonian landscapes in the face of global change.
+
+Stay tuned for more updates as the project gets underway!
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

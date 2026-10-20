@@ -1,1 +1,22 @@
 /* css styles */
+
+/*lfine line under navigation bar */
+.navbar {
+  border-bottom: 1px solid #ddd;
+}
+
+/*logo projet in navigation bar */
+.navbar-brand img,
+.navbar-logo {
+  max-height: 100px;
+  width: auto;
+}
+
+/*padding in navigation bar */
+.navbar {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+
+
+

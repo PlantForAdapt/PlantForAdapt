@@ -7,11 +7,13 @@ author-meta: "Géraldine Derroire"
 
 website:
   title: "PlantForAdapt"
-  # image: "images/hidramzonia_schme.png"
   description: "Adapting planted forests with native species for resilient Amazonian territories in the face of global changes"
  
   navbar:
-    background: dark
+    background: white
+    logo: files/images/logo_plantforadapt.png
+    logo-alt: "PlantForAdapt logo"
+    title: false
 
     left:
       - text: Project

@@ -1,7 +1,7 @@
 ---
 title: "PlantForAdapt"
 description-meta: "Adapting planted forests with native species for resilient Amazonian territories in the face of global changes"
-# image: "files/images/hidramzonia_scheme.png"
+image: "files/images/photo_home.jpg"
 page-navigation: false
 toc: false
 page-layout: full
@@ -9,7 +9,7 @@ page-layout: full
 about:
   id: hero-heading
   template: trestles
-  image-width: 120%
+  image-width: 100%
   links:
     - icon: envelope
       text: E-mail
@@ -37,28 +37,20 @@ listing:
 
 :::{#hero-heading}
 
-<!--
-**HidrAmazônia** — Hydrological and ecophysiological controls on Amazon forests' responses to drought and flooding.
+**PlantForAdapt - Adapting planted forests with native species for resilient Amazonian territories in the face of global changes**
 
-HidrAmazônia is a French-Brazilian research project studying how groundwater and plant functional traits shape the resilience of Amazonian forests to increasing droughts and floods, using two long-term "super-sites": [**Ducke**](https://ppbio.inpa.gov.br/en/Sites/RFAD) (Manaus, Brazil) and [**Paracou**](https://paracou.cirad.fr/) (Kourou, French Guiana).
+PlantForAdapt is an international research collaboration between Brazil and France addressing key research priorities on native-species planted forests to support resilient Amazonian landscapes in the face of global change.
 
-HidrAmazônia combines long-term forest and hydrological monitoring, ecophysiological trait measurements, and individual-based forest modelling (**TROLL**) to project how Amazon forest structure, composition, and functioning will respond under future climate and land-use scenarios.
+PlantForAdapt proposes an interdisciplinary scientific approach to tackle critical research priorities on planted forests in Amazonia. By placing strong emphasis on stakeholder engagement, PlantForAdapt will provide science-based guidelines to adapt management practices in tropical biodiverse planted forests to a rapidly changing context, while also contributing to cutting-edge scientific questions.
 
-## Project consortium
+PlantForAdapt is led by Géraldine Derroire (PI, CIRAD and University of Brasilia), Romain Lehnebach (co-PI, CIRAD), Lucas Mazzei (co-PI, Embrapa) and Sylvain Schmitt (co-PI, CIRAD and INPA). Participating institutions are [CIRAD](https://www.cirad.fr/en) (research units [Forests and Societies](https://ur-forets-societes.cirad.fr/en), [EcoFoG](https://umr-ecofog.cirad.fr/en/) and [Eco&Sols](https://www.umr-ecosols.fr/en/)), [Embrapa](https://www.embrapa.br/en), [INRAE](https://www.inrae.fr/en), [ONF](https://www.onf.fr/) ([RDI of French Guiana](https://www.onf.fr/onf/%2B/73::onf-en-guyane.html))  and its branches [ONFi](https://www.onfinternational.org/en) and [ONF Brasil](https://onfbrasil.com.br/en/), [University of French Guiana](https://www.univ-guyane.fr/en/) and [University of Brasilia](https://international.unb.br/). It is funded by the foundation [Velux Stiftung](https://veluxstiftung.ch/).
 
-- [Forests and Societies](https://ur-forets-societes.cirad.fr/en) 🇫🇷
-- [National Institute of Amazonian Research](https://www.gov.br/inpa/pt-br) 🇧🇷
-- [Ecology of the Forest of French Guiana](https://umr-ecofog.cirad.fr/en/) 🇬🇫
-- [AMAP Lab](https://amaplab.fr/en/index.php) 🇫🇷
-- [Center for Research on Biodiversity and Environment](https://crbe.cnrs.fr/en/) 🇫🇷
-- [Federal University of Amazonas](https://ufam.edu.br/) 🇧🇷
-
--->
- 
 :::
 
+![](files/images/logos_institutions.png){.column-body-outset}
+
 ## Recent News
-Check out the project latest &nbsp;[outputs](output.qmd)&nbsp;, &nbsp;[News](news.qmd).
+Check out the project latest &nbsp;[outputs](output.qmd)&nbsp; and &nbsp;[news](news.qmd).
 
 :::{#recent-news}
 :::
