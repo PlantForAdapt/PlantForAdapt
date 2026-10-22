@@ -1,0 +1,6 @@
+    - path: "#"
+      image: "/files/profiles/avatar.png"
+      title: "Isabelle Trisch"
+      author: "CIRAD"
+      subtitle: "Co-lead WP3"
+      categories: [CIRAD] 

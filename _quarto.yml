@@ -17,14 +17,28 @@ website:
 
     left:
       - text: Project
-        href: project.qmd
+        menu:
+          - text: Context
+            href: project.qmd#contexte
+          - text: Objectives
+            href: project.qmd#obj
+          - text: Hypothesis
+            href: project.qmd#hyp
+          - text: Organisation
+            href: project.qmd#orga
+          - text: Sites
+            href: project.qmd#sites
+          - text: Stakeholders
+            href: project.qmd#stakeholder
+          - text: Impact
+            href: project.qmd#impact
       - text: People
         menu:
-          - text: "Team"
+          - text: Team
             href: people.qmd#team
-          - text: "Students"
+          - text: Students
             href: people.qmd#students
-          - text: "Steering committee"
+          - text: Steering committee
             href: people.qmd#committee
       - text: Outputs
         href: outputs.qmd

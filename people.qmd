@@ -20,10 +20,42 @@ listing:  #an example of listing external links
 #  filter-ui: true
   contents: 
     - /people/geraldine_derroire.yml
-    # - /people/sylvain_schmitt.yml
+    - /people/romain_lehnebach.yml
+    - /people/lucas_mazzei.yml
+    - /people/sylvain_schmitt.yml
+    - /people/isabelle.trisch.yml
+    - /people/arthur_perrotton.yml
+        # - /people/lucile_auzemery.yml
+    # - /people/caroline_bedeau.yml
+    # - /people/alan_bernardes.yml
+    # - /people/vincent_bezard.yml
+    # - /people/olivier_brunaux.yml
+    # - /people/marion_chesnes.yml
     # - /people/sabrina_coste.yml
+    # - /people/joannes_guillemot.yml
+    # - /people/saulo_magnani.yml
+    # - /people/nicolas_perthuisot.yml
+    # - /people/maxence_rageade.yml
+    # - /people/jean_baptiste_robin.yml
     # - /people/giacomo_sellan.yml
     # - /people/clement_stahl.yml
+    # - /people/daniel_vieira.yml
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
 - id: lab-students

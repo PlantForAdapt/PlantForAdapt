@@ -1,0 +1,6 @@
+    - path: "#"
+      image: "/files/profiles/romain_lehnebach.jpg"
+      title: "Romain Lehnebach"
+      author: "CIRAD"
+      subtitle: "Co-coordinator, co_lead WP1"
+      categories: [CIRAD] 
