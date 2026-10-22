@@ -6,6 +6,7 @@ page-layout: full
 date-format: "YYYY-MM"
 listing:  #an example of listing external links
 #  template: item-default-external.ejs
+
 - id: lab-member
   sort: "name asc"
   type: grid
