@@ -1,4 +1,7 @@
 ---
-title: "Untitled"
-editor: visual
+title: "Project outputs"
+description-meta: "Project outputs"
+title-block-banner: false
 ---
+
+*No project publications yet !*

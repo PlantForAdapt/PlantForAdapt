@@ -107,7 +107,7 @@ The project engages two main groups of stakeholders:
 A [steering committee](people.qmd#committee) composed of project collaborators and national-level institutional stakeholders keeps the research anchored in operational realities.
 Final seminars in each project site and in Brasilia will help turn results into policy briefs and practical guidance for native species plantations.
 
-## Expected impact {impact}
+## Expected impact {#impact}
 
 PlantForAdapt will help fill important knowledge gaps on native Amazonian tree species in planted forests and contribute to cutting-edge scientific questions on the role of biodiversity in the functioning and resilience of forests. 
 Its interdisciplinary nature and stakeholder engagement throughout the project will also shade light on the factors influencing adoption of this inovative practive by a diversity of local actors.

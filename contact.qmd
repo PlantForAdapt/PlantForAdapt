@@ -9,7 +9,7 @@ title-block-banner: false
 
 **Géraldine Derroire**
 
-Reasearch Unit [Forests and Societies](https://ur-forets-societes.cirad.fr/en)
+CIRAD - Reasearch Unit [Forests and Societies](https://ur-forets-societes.cirad.fr/en)
 
 E-mail: geraldine.derroire@cirad.fr
 

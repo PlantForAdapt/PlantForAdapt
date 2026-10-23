@@ -10,6 +10,37 @@
 <atom:link href="https://PlantForAdapt.github.io/z_archive/publications.xml" rel="self" type="application/rss+xml"/>
 <description>Adapting planted forests with native species for resilient Amazonian territories in the face of global changes</description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Thu, 22 Oct 2026 20:56:16 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 20:36:52 GMT</lastBuildDate>
+<item>
+  <title>Opportunities</title>
+  <link>https://PlantForAdapt.github.io/z_archive/opportunities.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><em>Work in progress</em>, the content will soon be here!</p>
+
+
+
+ ]]></description>
+  <guid>https://PlantForAdapt.github.io/z_archive/opportunities.html</guid>
+  <pubDate>Fri, 23 Oct 2026 20:36:52 GMT</pubDate>
+</item>
+<item>
+  <title>Teaching</title>
+  <link>https://PlantForAdapt.github.io/z_archive/teaching.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <guid>https://PlantForAdapt.github.io/z_archive/teaching.html</guid>
+  <pubDate>Fri, 23 Oct 2026 20:36:52 GMT</pubDate>
+</item>
 </channel>
 </rss>

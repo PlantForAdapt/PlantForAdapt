@@ -1,0 +1,9 @@
+- path: "#"
+  image: "/files/profiles/avatar.png"
+  title: ""
+  author: "UnB / CIRAD / EMBRAPA"
+  subtitle: "PhD student"
+  categories: [UnB, CIRAD, EMBRAPA] 
+  started: "2027-03"
+  ended: "2031-02"
+    

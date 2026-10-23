@@ -1,6 +1,6 @@
 ---
-title: "People"
-subtitle: "Who we are"
+title: ""
+subtitle: ""
 image: files/image/poeple.png
 page-layout: full
 date-format: "YYYY-MM"
@@ -25,37 +25,21 @@ listing:  #an example of listing external links
     - /people/sylvain_schmitt.yml
     - /people/isabelle.trisch.yml
     - /people/arthur_perrotton.yml
-        # - /people/lucile_auzemery.yml
-    # - /people/caroline_bedeau.yml
-    # - /people/alan_bernardes.yml
-    # - /people/vincent_bezard.yml
-    # - /people/olivier_brunaux.yml
-    # - /people/marion_chesnes.yml
-    # - /people/sabrina_coste.yml
-    # - /people/joannes_guillemot.yml
-    # - /people/saulo_magnani.yml
-    # - /people/nicolas_perthuisot.yml
+    # - /people/lucile_auzemery.yml
+    - /people/caroline_bedeau.yml
+    - /people/alan_bernardes.yml
+    - /people/vincent_bezard.yml
+    - /people/olivier_brunaux.yml
+    - /people/marion_chesnes.yml
+    - /people/sabrina_coste.yml
+    - /people/joannes_guillemot.yml
+    - /people/saulo_magnani.yml
+    - /people/nicolas_perthuisot.yml
     # - /people/maxence_rageade.yml
     # - /people/jean_baptiste_robin.yml
-    # - /people/giacomo_sellan.yml
-    # - /people/clement_stahl.yml
-    # - /people/daniel_vieira.yml
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    - /people/giacomo_sellan.yml
+    - /people/clement_stahl.yml
+    - /people/daniel_vieira.yml
     
     
 - id: lab-students
@@ -72,9 +56,10 @@ listing:  #an example of listing external links
 #  sort-ui: true
 #  filter-ui: true
   contents: 
-    - /people/wp1_cdd.yml
-    - /people/wp2_postdoc.yml
-    - /people/wp3_phd.yml
+    - /people/phd1.yml
+    - /people/phd2.yml
+    - /people/postdoc.yml
+    - /people/msc.yml
 
 page-navigation: true
 title-block-banner: false
@@ -98,6 +83,20 @@ format:
 :::
 
 ## Steering committee {#committee}
+
+* Caroline Bedeau - [**ONF-Guyane RDI**](https://www.onf.fr/onf/%2B/73::onf-en-guyane.html)
+
+* Isabelle Bonjour - [**Centre Technique des Bois et Forêts de Guyane**](https://ctbf-guyane.fr/)
+
+* Nicolas Perthuisot - [**ONF international**](https://www.onfinternational.org/en)
+
+* Driss Ezzine-de-Blas - Socioeconomist [**CIRAD**](https://ur-forets-societes.cirad.fr/)
+
+* *TBD* - [**Programa de Pesquisa e Desenvolvimento da Silvicultura de Espécies Nativas**](https://coalizaobr.com.br/nativas/)
+
+* *TBD* - [**Serviço Florestal Brasileiro**](https://www.gov.br/florestal/pt-br)
+
+* PlantForAdapt PI, co-PIs and WP leaders
 
 
 

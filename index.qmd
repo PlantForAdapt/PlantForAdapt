@@ -50,7 +50,7 @@ PlantForAdapt is a 4-year project (2026-2030) led by Géraldine Derroire (PI, CI
 ![](files/images/logos_institutions.png){.column-body-outset}
 
 ## Recent News
-Check out the project latest &nbsp;[outputs](output.qmd)&nbsp; and &nbsp;[news](news.qmd).
+Check out the project latest &nbsp;[outputs](outputs.qmd)&nbsp; and &nbsp;[news](news.qmd).
 
 :::{#recent-news}
 :::

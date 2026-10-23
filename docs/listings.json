@@ -17,6 +17,9 @@
   },
   {
     "listing": "/z_archive/publications.html",
-    "items": []
+    "items": [
+      "/z_archive/opportunities.html",
+      "/z_archive/teaching.html"
+    ]
   }
 ]

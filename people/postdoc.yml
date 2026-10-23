@@ -1,0 +1,9 @@
+- path: "#"
+  image: "/files/profiles/avatar.png"
+  title: ""
+  author: "CIRAD"
+  subtitle: "Post doctorant"
+  categories: [CIRAD] 
+  started: "2027-04"
+  ended: "2029-03"
+    

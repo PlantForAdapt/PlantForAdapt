@@ -44,7 +44,7 @@ website:
         href: outputs.qmd
       - text: News
         href: news.qmd
-      - text: Contacts
+      - text: Contact
         href: contact.qmd
 
     right: 

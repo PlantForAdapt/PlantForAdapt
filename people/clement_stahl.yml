@@ -1,6 +1,6 @@
 - path: "#"
-  image: "/files/profiles/avatar.png"
+  image: "/files/profiles/clement_stahl.jpg"
   title: "Clément Stahl"
-  author: "EcoFoG"
-  subtitle: "WP2"
-  categories: [EcoFoG]
+  author: "INRAE"
+  subtitle: ""
+  categories: [INRAE]

@@ -10,8 +10,8 @@ listing:
   sort-ui: true
   filter-ui: true
   feed: true
-  contents: 
-      - papers
+  #contents: 
+    #  - papers
 draft-mode: unlinked
 page-navigation: false
 title-block-banner: false

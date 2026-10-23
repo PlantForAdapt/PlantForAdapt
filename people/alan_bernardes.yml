@@ -1,6 +1,6 @@
-    - path: "https://sylvainschmitt.netlify.app/"
-      image: "/files/profiles/sylvain_schmitt.jpg"
-      title: "Sylvain Schmitt"
-      author: "Forests & Societies"
-      subtitle: "Co-coordinator"
-      categories: [Forests & Societies] 
+    - path: "#"
+      image: "/files/profiles/alan_bernardes.png"
+      title: "Alan Bernardes da Silveira"
+      author: "ONF Brasil"
+      subtitle: ""
+      categories: [ONF Brasil] 
